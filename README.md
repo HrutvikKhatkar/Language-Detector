@@ -30,3 +30,6 @@ text,label
 ├── language_model.pkl         # Saved ML model
 ├── devanagari_language_dataset.csv  # Dataset
 ├── README.md                  # You're here!
+
+
+Check our app : [devanagari-language-detector](https://devanagari-language-detector.streamlit.app/)
