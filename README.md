@@ -17,19 +17,24 @@ text,label
 नमस्ते, Hindi
 तुमचं स्वागत आहे, Marathi
 ...
-
+```
+## Overview 
 
 🧠 Part 1: Training the Language Detection Model
+
 🌐 Part 2: Streamlit Web App
 
 
-📌 Project Structure
+### 📌 Project Structure
+```csv
 .
 ├── app.py                      # Streamlit web app
 ├── train_model.py             # Model training script
 ├── language_model.pkl         # Saved ML model
 ├── devanagari_language_dataset.csv  # Dataset
 ├── README.md                  # You're here!
+```
 
+## 🚀 Check out the deployed app
 
-Check our app : [devanagari-language-detector](https://devanagari-language-detector.streamlit.app/)
+[👉 Launch Devanagari Language Detector](https://devanagari-language-detector.streamlit.app/)
